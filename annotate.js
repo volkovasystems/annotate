@@ -46,7 +46,7 @@
 		}
 	@end-include
 */
-var annotate = function annotate( value ){
+var annotate = function annotate( value, meta ){
 	
 };
 
